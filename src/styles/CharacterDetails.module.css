@@ -1,0 +1,44 @@
+.detailsContainer {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.detailsContainer h2 {
+  font-size: 24px;
+  color: #343a40;
+  margin-bottom: 15px;
+}
+
+.detailsContainer p {
+  font-size: 16px;
+  color: #495057;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.editInput {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 8px;
+  font-size: 16px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.favoriteButton {
+  background-color: #ffc107;
+  color: #212529;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.favoriteButton:hover {
+  background-color: #e0a800;
+}

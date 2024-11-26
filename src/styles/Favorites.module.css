@@ -1,0 +1,19 @@
+.favoritesContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+
+.emptyMessage {
+  color: #868e96;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.favoritesList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
